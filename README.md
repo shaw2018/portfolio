@@ -99,8 +99,8 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 <h2 align= "center"><b> Project Maintainers</b></h2>
 
 <p align="center">
-<img width=20% src="https://cdn.discordapp.com/avatars/569263309195313154/ce906fbc69d84b4f9c849dc1f92a7b5a.png?size=1024">&ensp;&ensp;&ensp;
-<img width=20% src="https://cdn.discordapp.com/avatars/569263309195313154/ce906fbc69d84b4f9c849dc1f92a7b5a.png?size=1024">
+<img width=20% src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">&ensp;&ensp;&ensp;
+<img width=20% src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
 <a href="https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ">
