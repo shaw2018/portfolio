@@ -94,7 +94,7 @@ let footer = $(`
         </a>
         <div class="simple-text text-center dark padding-sm">
           <p >
-            "The World Never Say HELLO BACK."
+            "The World Never Say  HELLO BACK"
           </p>
         </div>
 
