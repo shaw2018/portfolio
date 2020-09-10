@@ -2,7 +2,7 @@
 An open source project for creating end-end templates for portfolio websites for everyone to use. I am a clan of geeks who wants to provide you with that dope website that flaunts your hardwork and projects over the years to your mates and employers! With a deep desire to have that satiating UI, those engaging animations,the great SEO and the optimized code, we do it all.
 
 <h2 align= "center"><b> How to Get Started ?</b></h2>
-<p align="center"><img width=50% src="https://media.giphy.com/media/l0IyjiXOXTX6Yemsg/giphy.gif"></p>
+<p align="center"><img width=50% src="https://media.giphy.com/media/3FjwOam0L3bcVERzO9/giphy.gif"></p>
 
   
   This project is expected to be done in the following phases:
