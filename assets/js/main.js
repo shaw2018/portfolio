@@ -156,7 +156,7 @@ let footer = $(`
 </div>
 <div class="tt-copy">
   <div class="container col-sm-6">
-    <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>
+    <center class="text-animation">ShaW Always Online <i class="fa fa-heart" style="color: red;"></i></center>
   </div>
 </div>
 </footer>`);
