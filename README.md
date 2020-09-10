@@ -99,15 +99,14 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 <h2 align= "center"><b> Project Maintainers</b></h2>
 
 <p align="center">
-<img width=20% src="https://avatars2.githubusercontent.com/u/46641503?v=4">&ensp;&ensp;&ensp;
-<img width=20% src="https://avatars2.githubusercontent.com/u/40017559?v=4">
+<img width=20% src="https://cdn.discordapp.com/avatars/569263309195313154/ce906fbc69d84b4f9c849dc1f92a7b5a.png?size=1024">&ensp;&ensp;&ensp;
+<img width=20% src="https://cdn.discordapp.com/avatars/569263309195313154/ce906fbc69d84b4f9c849dc1f92a7b5a.png?size=1024">
 </p>
 
-<a href="https://github.com/smaranjitghose">
-<h4 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h4></a>
+<a href="https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ">
+<h4 align="center"><b>ABHIJIT SHAW</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ"><b>SHAW</b></h4></a>
 
-[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/0)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/0)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/1)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/1)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/2)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/2)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/3)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/3)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/4)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/4)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/5)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/5)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/6)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/6)[![](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/images/7)](https://sourcerer.io/fame/smaranjitghose/smaranjitghose/awesome-portfolio-websites/links/7)
 
 
 <a href="./Code_of_conduct.md"><h2 align= "center"><b> Code of Conduct</b></h2></a> 
