@@ -90,12 +90,6 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 - GitHub Actions 
 - Setup Search Option
 
-<h2 align="center"><b>Open Source Programs we have been a part of:</b></h2>
-<p align="center">
-<img width=20% src="assets/images/hakin_codes.png">&ensp;&ensp;&ensp;
-<img width=20% src="assets/images/sci.jpg">
-</p>
-
 <h2 align= "center"><b> Project Maintainers</b></h2>
 
 <p align="center">
